@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lycheejellyy
-- 👀 I’m interested in Web Development
+- 👋 Hi, I’m @lycheejellyy aka Teresa
+- 👀 I’m interested in Web Development & UX/UI Design
 - 🌱 I’m currently learning Java, C#, HTML, CSS & JavaScript
 - 💞️ I’m looking to collaborate on nothing :)
 - 📫 How to reach me: don't <3
